@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://SerenityTech.github.io</id>
+    <title>SerenityTech</title>
+    <link href="https://SerenityTech.github.io" />
+    <updated>2024-10-21T09:24:12.000Z</updated>
+    <entry>
+        <id>https://serenitytech.github.io/posts/26890</id>
+        <title>Android Launcher进程启动</title>
+        <link rel="alternate" href="https://serenitytech.github.io/posts/26890"/>
+        <content type="html"></content>
+        <updated>2024-10-21T09:24:12.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://serenitytech.github.io/posts/41381</id>
+        <title>Android SystemServer进程启动</title>
+        <link rel="alternate" href="https://serenitytech.github.io/posts/41381"/>
+        <content type="html"></content>
+        <updated>2024-10-21T09:23:46.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://serenitytech.github.io/posts/53933</id>
+        <title>Android Zygote进程启动</title>
+        <link rel="alternate" href="https://serenitytech.github.io/posts/53933"/>
+        <content type="html"></content>
+        <updated>2024-10-21T09:23:16.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://serenitytech.github.io/posts/44910</id>
+        <title>AST抽象语法树</title>
+        <link rel="alternate" href="https://serenitytech.github.io/posts/44910"/>
+        <content type="html"></content>
+        <updated>2024-10-18T02:25:23.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://serenitytech.github.io/posts/54976</id>
+        <title>android init进程启动</title>
+        <link rel="alternate" href="https://serenitytech.github.io/posts/54976"/>
+        <content type="html"></content>
+        <updated>2024-10-18T02:25:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://serenitytech.github.io/posts/39646</id>
+        <title>生活</title>
+        <link rel="alternate" href="https://serenitytech.github.io/posts/39646"/>
+        <content type="html"></content>
+        <updated>2024-10-08T07:37:05.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://serenitytech.github.io/posts/135</id>
+        <title>验证码</title>
+        <link rel="alternate" href="https://serenitytech.github.io/posts/135"/>
+        <content type="html"></content>
+        <updated>2024-10-08T07:36:19.000Z</updated>
+    </entry>
+</feed>

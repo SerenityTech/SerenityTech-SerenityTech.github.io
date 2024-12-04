@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>SerenityTech</title>
+        <link>https://SerenityTech.github.io</link>
+        <description>dedicated to web and mobile security research.</description>
+        <language>zh-CN</language>
+        <pubDate>Mon, 21 Oct 2024 09:24:12 +0000</pubDate>
+        <lastBuildDate>Mon, 21 Oct 2024 09:24:12 +0000</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://serenitytech.github.io/posts/26890</guid>
+            <title>Android Launcher进程启动</title>
+            <link>https://serenitytech.github.io/posts/26890</link>
+            <pubDate>Mon, 21 Oct 2024 09:24:12 +0000</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://serenitytech.github.io/posts/41381</guid>
+            <title>Android SystemServer进程启动</title>
+            <link>https://serenitytech.github.io/posts/41381</link>
+            <pubDate>Mon, 21 Oct 2024 09:23:46 +0000</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://serenitytech.github.io/posts/53933</guid>
+            <title>Android Zygote进程启动</title>
+            <link>https://serenitytech.github.io/posts/53933</link>
+            <pubDate>Mon, 21 Oct 2024 09:23:16 +0000</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://serenitytech.github.io/posts/44910</guid>
+            <title>AST抽象语法树</title>
+            <link>https://serenitytech.github.io/posts/44910</link>
+            <pubDate>Fri, 18 Oct 2024 02:25:23 +0000</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://serenitytech.github.io/posts/54976</guid>
+            <title>android init进程启动</title>
+            <link>https://serenitytech.github.io/posts/54976</link>
+            <pubDate>Fri, 18 Oct 2024 02:25:00 +0000</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://serenitytech.github.io/posts/39646</guid>
+            <title>生活</title>
+            <link>https://serenitytech.github.io/posts/39646</link>
+            <pubDate>Tue, 08 Oct 2024 07:37:05 +0000</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://serenitytech.github.io/posts/135</guid>
+            <title>验证码</title>
+            <link>https://serenitytech.github.io/posts/135</link>
+            <pubDate>Tue, 08 Oct 2024 07:36:19 +0000</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
+    </channel>
+</rss>
